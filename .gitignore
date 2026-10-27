@@ -399,3 +399,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Iron Gym local environment / database exports
+.env
+.env.*
+!.env.example
+*.dump
+*.backup
+*.sql.gz

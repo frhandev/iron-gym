@@ -1,7 +1,7 @@
 # Section 1 – Requirements Analysis
 
 **Project:** Iron Gym Membership Management System  
-**Course:** Database Managenent Systems  
+**Course:** Database Management Systems  
 **Prepared by:** Muhammed Ferhan  
 **Date:** 25th Oct 2026
 
@@ -46,6 +46,8 @@ The system includes four main user roles. Each role can perform different operat
 - **Trainer:** View assigned group class sessions and manage attendance records.
 - **Receptionist:** Create and update member records, manage memberships, record payments, and monitor reservation statuses.
 - **Administrator:** Manage user roles, modify membership packages, manage trainer and session assignments, and view system reports.
+
+A user may have multiple roles. For example, a trainer may also have a member account.
 
 ## 1.3 Core Functionalities
 
